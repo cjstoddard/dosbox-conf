@@ -33,7 +33,7 @@ The following instructions will walk you through setting up a system so it boots
    
         make install
     
-7. You can now reboot the system, when you come back up, you will get a login screen. Login as your normal user account. The screen will be blank except for the wallpapaer. Click on the desktop and a menu should appear, mouse over Debian > Applications > Shells, click on bash. This will open a commandline for you. first run xrandr, this will tell you your screen resolution, write this down, you will need it later.Next run "ip addr", this    will give you your IP address and the name of you network device, it will be something like enp3s0. Write both of these down as well. Lastly run "mkdir dosbox".
+7. You can now reboot the system, when you come back up, you will get a login screen. Login as your normal user account. The screen will be blank except for the wallpapaer. Click on the desktop and a menu should appear, mouse over Debian > Applications > Shells, click on bash. This will open a commandline for you. first run "xrandr", this will tell you your screen resolution, write this down, you will need it later. Next run "ip addr", this will give you your IP address and the name of you network device, it will be something like enp3s0. Write both of these down as well. Lastly run "mkdir dosbox".
 
 8. Run the following commands;
 
@@ -56,6 +56,7 @@ The following instructions will walk you through setting up a system so it boots
         realnic = enp3s0
      
   Finally add the following lines at the bottom of the file.
+        
         mount c ~/dosbox
         
         c:
