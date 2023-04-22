@@ -13,11 +13,11 @@ The following instructions will walk you through setting up a system so it boots
 
 3. Log in as root once again and install the following;
 
-        apt install  sudo mc xorg twm lightdm pulseaudio shellinabox vsftpd
+        apt install sudo mc xorg twm lightdm pulseaudio shellinabox vsftpd
         
    Once sudo is installed, add you normal user account into the /etc/sudoers file.
     
-4. Install the packages neccessary to compile DoxBox-x;
+4. Install the packages neccessary to compile DosBox-x;
 
         apt install automake gcc g++ make libncurses-dev nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev libslirp-dev fluidsynth libfluidsynth-dev libavformat-dev libavcodec-dev ibavcodec-extra libswscale-dev libfreetype-dev libxkbfile-dev libxrandr-dev
     
