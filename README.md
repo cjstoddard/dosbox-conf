@@ -79,7 +79,7 @@ The following instructions will walk you through setting up a system so it boots
 
 10. Edit the following file;
 
-        nano .xsessions
+        nano .xsession
 
     add the following line;
         
