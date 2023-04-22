@@ -72,3 +72,5 @@ The following instructions will walk you through setting up a system so it boots
     the command line using ssh or by pointing a browser at the system IP address
     like this "https://192.168.0.120:4200". If you wish to transfer files,
     you can access the system through FTP using Filezilla or similar.
+
+13. You can now install games or applications, and even Windows 3.1.
