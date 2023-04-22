@@ -13,7 +13,7 @@ The following instructions will walk you through setting up a system so it boots
 
 3. Log in as root once again and install the following;
 
-        apt install  sudo mc xorg twm lightdm pulseaudio xrandr shellinabox vsftpd
+        apt install  sudo mc xorg twm lightdm pulseaudio shellinabox vsftpd
         
    Once sudo is installed, add you normal user account into the /etc/sudoers file.
     
