@@ -55,7 +55,7 @@ The following instructions will walk you through setting up a system so it boots
    
         realnic = enp3s0
      
-  Finally add the following lines at the bottom of the file.
+   Finally add the following lines at the bottom of the file.
         
         mount c ~/dosbox
         
@@ -63,7 +63,7 @@ The following instructions will walk you through setting up a system so it boots
         
         SET BLASTER=A220 I5 D1 H5 P330 T6
   
-  Save and close the file
+   Save and close the file
   
 9. Now we want to setup auto login, so the system boots straight to Dosbox-x. Edit the following file;
         
