@@ -69,7 +69,7 @@ The following instructions will walk you through setting up a system so it boots
         
         sudo nano /etc/lightdm/lightdm.conf
         
-   Uncomment the following two linesand add the name of you normal user next to autologin-user=
+   Uncomment the following two lines and add the name of you normal user next to autologin-user=
    
         autologin-user=chris
         
