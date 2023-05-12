@@ -19,7 +19,7 @@ The following instructions will walk you through setting up a system so it boots
     
 4. Install the packages neccessary to compile DosBox-x;
 
-        apt install automake gcc g++ make libncurses-dev nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev libslirp-dev fluidsynth libfluidsynth-dev libavformat-dev libavcodec-dev ibavcodec-extra libswscale-dev libfreetype-dev libxkbfile-dev libxrandr-dev git
+        apt install automake gcc g++ make libncurses-dev nasm libsdl-net1.2-dev libsdl2-net-dev libpcap-dev libslirp-dev fluidsynth libfluidsynth-dev libavformat-dev libavcodec-dev ibavcodec-extra libswscale-dev libfreetype-dev libxkbfile-dev libxrandr-dev git zenity
     
 5. Get the source code for DosBox-x;
 
