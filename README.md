@@ -43,7 +43,7 @@ The following instructions will walk you through setting up a system so it boots
   
    Next run;
    
-        nano .config/dosbox-x/dosbox-x-2023.03.31.conf
+        nano .config/dosbox-x/dosbox-x-2023.05.01.conf
   
    Change the following lines to match your screen resosultion per xrandr output.
         
