@@ -39,7 +39,7 @@ The following instructions will walk you through setting up a system so it boots
 
         mkdir .config/dosbox-x
   
-        cp /usr/share/dosbox-x/dosbox-x.reference.full.conf .config/dosbox-x/dosbox-x-2023.03.31.conf
+        cp /usr/share/dosbox-x/dosbox-x.reference.full.conf .config/dosbox-x/dosbox-x-2023.05.01.conf
   
    Next run;
    
